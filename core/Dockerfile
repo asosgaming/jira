@@ -1,5 +1,5 @@
-FROM blacklabelops/alpine:3.4
-MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
+FROM asos/alpine:3.4
+MAINTAINER Steffen Bleul <sbl@asos.com>
 
 ENV JIRA_CORE_VERSION=7.2.3                   \
     JIRA_USER=jira                            \
